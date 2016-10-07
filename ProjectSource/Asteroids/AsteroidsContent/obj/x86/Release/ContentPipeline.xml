@@ -1,0 +1,885 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Spaceship\ship_1.png</Source>
+      <Name>Spaceship\ship_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Spaceship\ship_1.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\lv1_1280.png</Source>
+      <Name>Background\lv1_1280</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Background\lv1_1280.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\lv1_1024.png</Source>
+      <Name>Background\lv1_1024</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Background\lv1_1024.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Asteroids\asteroide1.png</Source>
+      <Name>Asteroids\asteroide1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Asteroids\asteroide1.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\b.png</Source>
+      <Name>Background\b</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Background\b.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Asteroids\asteroide2.png</Source>
+      <Name>Asteroids\asteroide2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Asteroids\asteroide2.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\earthSpace.png</Source>
+      <Name>Background\earthSpace</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Background\earthSpace.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Asteroids\Asteroid1.png</Source>
+      <Name>Asteroids\Asteroid1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Asteroids\Asteroid1.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Asteroids\Asteroid2.png</Source>
+      <Name>Asteroids\Asteroid2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Asteroids\Asteroid2.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Asteroids\Asteroid3.png</Source>
+      <Name>Asteroids\Asteroid3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Asteroids\Asteroid3.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Asteroids\Asteroid4.png</Source>
+      <Name>Asteroids\Asteroid4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Asteroids\Asteroid4.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Asteroids\Asteroid5.png</Source>
+      <Name>Asteroids\Asteroid5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Asteroids\Asteroid5.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Asteroids\Asteroid6.png</Source>
+      <Name>Asteroids\Asteroid6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Asteroids\Asteroid6.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Asteroids\Asteroid7.png</Source>
+      <Name>Asteroids\Asteroid7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Asteroids\Asteroid7.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Asteroids\Asteroid8.png</Source>
+      <Name>Asteroids\Asteroid8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Asteroids\Asteroid8.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Asteroids\Asteroid9.png</Source>
+      <Name>Asteroids\Asteroid9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Asteroids\Asteroid9.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Asteroids\Asteroid10.png</Source>
+      <Name>Asteroids\Asteroid10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Asteroids\Asteroid10.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Life\life1.png</Source>
+      <Name>Life\life1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Life\life1.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Spaceship\fly1.png</Source>
+      <Name>Spaceship\fly1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Spaceship\fly1.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Spaceship\fly2.png</Source>
+      <Name>Spaceship\fly2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Spaceship\fly2.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Spaceship\fly3.png</Source>
+      <Name>Spaceship\fly3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Spaceship\fly3.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Spaceship\fly4.png</Source>
+      <Name>Spaceship\fly4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Spaceship\fly4.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Line\px.png</Source>
+      <Name>Line\px</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Line\px.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ufo\ufo-test.png</Source>
+      <Name>Ufo\ufo-test</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Ufo\ufo-test.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Ikke_valgt\About_Button.png</Source>
+      <Name>Menu\Ikke_valgt\About_Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\About_Button.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Ikke_valgt\Controls_Button.png</Source>
+      <Name>Menu\Ikke_valgt\Controls_Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\Controls_Button.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Ikke_valgt\Highscore_Button.png</Source>
+      <Name>Menu\Ikke_valgt\Highscore_Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\Highscore_Button.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Ikke_valgt\NewGame_Button.png</Source>
+      <Name>Menu\Ikke_valgt\NewGame_Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\NewGame_Button.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Ikke_valgt\Settings_Button.png</Source>
+      <Name>Menu\Ikke_valgt\Settings_Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\Settings_Button.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Ikke_valgt\Sounds_Button.png</Source>
+      <Name>Menu\Ikke_valgt\Sounds_Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\Sounds_Button.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Ikke_valgt\Video_Button.png</Source>
+      <Name>Menu\Ikke_valgt\Video_Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\Video_Button.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Valgt\About_Button.png</Source>
+      <Name>Menu\Valgt\About_Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\About_Button.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Valgt\Controls_Button.png</Source>
+      <Name>Menu\Valgt\Controls_Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\Controls_Button.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Valgt\Exit_Button.png</Source>
+      <Name>Menu\Valgt\Exit_Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\Exit_Button.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Valgt\Highscore_Button.png</Source>
+      <Name>Menu\Valgt\Highscore_Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\Highscore_Button.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Valgt\NewGame_Button.png</Source>
+      <Name>Menu\Valgt\NewGame_Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\NewGame_Button.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Valgt\Settings_Button.png</Source>
+      <Name>Menu\Valgt\Settings_Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\Settings_Button.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Valgt\Sounds_Button.png</Source>
+      <Name>Menu\Valgt\Sounds_Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\Sounds_Button.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Valgt\Video_Button.png</Source>
+      <Name>Menu\Valgt\Video_Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\Video_Button.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Logo\logo.png</Source>
+      <Name>Logo\logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Logo\logo.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Logo\logoSmall.png</Source>
+      <Name>Logo\logoSmall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Logo\logoSmall.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Ikke_valgt\Player1.png</Source>
+      <Name>Menu\Ikke_valgt\Player1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\Player1.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Ikke_valgt\Accept_Button.png</Source>
+      <Name>Menu\Ikke_valgt\Accept_Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\Accept_Button.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Valgt\Player1.png</Source>
+      <Name>Menu\Valgt\Player1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\Player1.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Valgt\Accept_Button.png</Source>
+      <Name>Menu\Valgt\Accept_Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\Accept_Button.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Ikke_valgt\Player2.png</Source>
+      <Name>Menu\Ikke_valgt\Player2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\Player2.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Ikke_valgt\Player3.png</Source>
+      <Name>Menu\Ikke_valgt\Player3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\Player3.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Ikke_valgt\Player4.png</Source>
+      <Name>Menu\Ikke_valgt\Player4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\Player4.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Valgt\Player2.png</Source>
+      <Name>Menu\Valgt\Player2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\Player2.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Valgt\Player3.png</Source>
+      <Name>Menu\Valgt\Player3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\Player3.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Valgt\Player4.png</Source>
+      <Name>Menu\Valgt\Player4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\Player4.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Ikke_valgt\Exit_Button.png</Source>
+      <Name>Menu\Ikke_valgt\Exit_Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\Exit_Button.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\TextFields\TextField.png</Source>
+      <Name>Menu\TextFields\TextField</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\TextFields\TextField.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\TextFields\TextField_valgt.png</Source>
+      <Name>Menu\TextFields\TextField_valgt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\TextFields\TextField_valgt.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Ikke_valgt\Login_Button.png</Source>
+      <Name>Menu\Ikke_valgt\Login_Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\Login_Button.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Ikke_valgt\QuickGame_Button.png</Source>
+      <Name>Menu\Ikke_valgt\QuickGame_Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\QuickGame_Button.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Ikke_valgt\Register_Button.png</Source>
+      <Name>Menu\Ikke_valgt\Register_Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\Register_Button.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Valgt\Login_Button.png</Source>
+      <Name>Menu\Valgt\Login_Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\Login_Button.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Valgt\QuickGame_Button.png</Source>
+      <Name>Menu\Valgt\QuickGame_Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\QuickGame_Button.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Valgt\Register_Button.png</Source>
+      <Name>Menu\Valgt\Register_Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\Register_Button.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Valgt\EndGame_Button.png</Source>
+      <Name>Menu\Valgt\EndGame_Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\EndGame_Button.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Ikke_valgt\EndGame_Button.png</Source>
+      <Name>Menu\Ikke_valgt\EndGame_Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\EndGame_Button.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Spaceship\skjold.png</Source>
+      <Name>Spaceship\skjold</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Spaceship\skjold.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Spaceship\skjold_hit.png</Source>
+      <Name>Spaceship\skjold_hit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Spaceship\skjold_hit.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Logo\logoTiny2.png</Source>
+      <Name>Logo\logoTiny</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Logo\logoTiny.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Life\life2.png</Source>
+      <Name>Life\life2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Life\life2.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Life\life3.png</Source>
+      <Name>Life\life3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Life\life3.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Life\life4.png</Source>
+      <Name>Life\life4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Life\life4.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Ufo\UFO.png</Source>
+      <Name>Ufo\UFO</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Ufo\UFO.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>particleMetal.png</Source>
+      <Name>particleMetal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\particleMetal.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Bullet\bullet1.png</Source>
+      <Name>Bullet\bullet1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Bullet\bullet1.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Bullet\bullet2.png</Source>
+      <Name>Bullet\bullet2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Bullet\bullet2.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Bullet\bullet3.png</Source>
+      <Name>Bullet\bullet3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Bullet\bullet3.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Bullet\bullet4.png</Source>
+      <Name>Bullet\bullet4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Bullet\bullet4.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Bullet\bullet5.png</Source>
+      <Name>Bullet\bullet5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Bullet\bullet5.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\bg3.png</Source>
+      <Name>Background\bg3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Background\bg3.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\bg2.png</Source>
+      <Name>Background\bg2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Background\bg2.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\moon1280.png</Source>
+      <Name>Background\moon1280</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Background\moon1280.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\earth1280.png</Source>
+      <Name>Background\earth1280</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Background\earth1280.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background\venus1280.png</Source>
+      <Name>Background\venus1280</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Background\venus1280.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>particleMetal_grande.png</Source>
+      <Name>particleMetal_grande</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\particleMetal_grande.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Valgt\StartGame_Button.png</Source>
+      <Name>Menu\Valgt\StartGame_Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\StartGame_Button.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Ikke_valgt\StartGame_Button.png</Source>
+      <Name>Menu\Ikke_valgt\StartGame_Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\StartGame_Button.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Georgia_26.spritefont</Source>
+      <Name>Fonts\Georgia_26</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Fonts\Georgia_26.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Georgia_100.spritefont</Source>
+      <Name>Fonts\Georgia_100</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Fonts\Georgia_100.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Georgia_14.spritefont</Source>
+      <Name>Fonts\Georgia_14</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Fonts\Georgia_14.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Georgia_12.spritefont</Source>
+      <Name>Fonts\Georgia_12</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Fonts\Georgia_12.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\skyd.wav</Source>
+      <Name>Sounds\skyd</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Sounds\skyd.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\shieldHit.wav</Source>
+      <Name>Sounds\shieldHit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Sounds\shieldHit.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\explosion.wav</Source>
+      <Name>Sounds\explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Sounds\explosion.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\spawn.wav</Source>
+      <Name>Sounds\spawn</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Sounds\spawn.xnb</Output>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\loop.wma</Source>
+      <Name>Sounds\loop</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Sounds\loop.xnb</Output>
+      <Extra>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Sounds\loop.wma</Extra>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\asteroids.wma</Source>
+      <Name>Sounds\asteroids</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Sounds\asteroids.xnb</Output>
+      <Extra>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Sounds\asteroids.wma</Extra>
+      <Time>2012-01-25T01:49:23+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\AsteroidsContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\AsteroidsContent\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2001-11-21T07:10:57.8814+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Textures for all visible objects in the game.">
+    <Position X="13.64" Y="6.916" Height="0.669" Width="1.182" />
+  </Comment>
+  <Class Name="Asteroids.Asteroid" Collapsed="true">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAgAAAAIAAAAACQAAAAkEAAABQAAAAAAA=</HashCode>
+      <FileName>Asteroid.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Size" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Asteroids.Bullet" Collapsed="true">
+    <Position X="5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAgABAAAAAAAAAQAAAAAAAAAAAAACAAQA=</HashCode>
+      <FileName>Bullet.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Owner" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Asteroids.Controls">
+    <Position X="8.25" Y="5.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>4BAAAAAAAAAAAAAA4BAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controls.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Asteroids.Environment">
+    <Position X="15" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QBIAAEAAAAgAAAAIAAIAgAEAAIgAAAAIAAAQCAEAAAA=</HashCode>
+      <FileName>Environment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Asteroids.Game1" Collapsed="true">
+    <Position X="5.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hmwBEEARgAIpY2CEASAQJAkMAAFGRAiBJhAEAYxgIIc=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Ai" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="players" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Asteroids.HUD">
+    <Position X="13.25" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>IAkAjAAgACQAIQAhAAkBAIAoAAAgKAAABAABAAAAAIk=</HashCode>
+      <FileName>HUD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Asteroids.Level">
+    <Position X="11.5" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAEAAAEAAAABAABAAAAAQAAAAA=</HashCode>
+      <FileName>Level.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Asteroids.Movable" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAABIAAAIIgAAKAIAADUAAAAwEAAAJRAAAAQAA=</HashCode>
+      <FileName>Movable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Asteroids.Particle" Collapsed="true">
+    <Position X="7.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAABAAIAAAAAAQAAAAAAAAAQAAAAAAABABACAAAAAA=</HashCode>
+      <FileName>Particle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Asteroids.Player" Collapsed="true">
+    <Position X="8.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQEAAAJAACAAQBgAkAAIgBAABAAAAASBAgAAwAAFEEA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Asteroids.Program" Collapsed="true">
+    <Position X="3.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAgAAAAAAAAAAAAAAAAAAAAAAAABCAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="gameRef" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Asteroids.Shield">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAEAgAAAAAAAAAAAAEBAgABAAAAAAQAAA=</HashCode>
+      <FileName>Shield.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Asteroids.Sounds">
+    <Position X="15" Y="5.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>BAAAAAQMAAAADAAAAAAAAAgEAAAABAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Sounds.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Asteroids.Spaceship" Collapsed="true">
+    <Position X="9.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAECAAACAgAQAAAAkAQiAQACCAIYAAAAABAgAAAQ=</HashCode>
+      <FileName>Spaceship.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Owner" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Asteroids.Textures" Collapsed="true">
+    <Position X="13.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>WMAvFcJBBTEKoEnjolFI54ABXoHwg0phpVFieQsgfhw=</HashCode>
+      <FileName>Textures.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Asteroids.Ufo" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QAAAQAAAAEAAJAAAAKAAAAAQQAkAAAgBBAAQAAAAAJQ=</HashCode>
+      <FileName>Ufo.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Direction" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Asteroids.World" Collapsed="true">
+    <Position X="0.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEwgBBNMIAgSCAAIAACMCABkiAAA5QABJQAAAQVIAAA=</HashCode>
+      <FileName>World.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Asteroids" />
+      <Property Name="Movables" />
+      <Property Name="SpaceshipsToBeSpawned" />
+      <Property Name="SpawnedSpaceships" />
+      <Property Name="SpritesToBeAdded" />
+      <Property Name="SpritesToBeRemoved" />
+      <Property Name="Ufo" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Enum Name="Asteroids.AsteroidSize" Collapsed="true">
+    <Position X="2.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Asteroid.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Asteroids.Actions">
+    <Position X="10" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEABAAAAAAAAAAACAAAAAAACACAAAAAAAA=</HashCode>
+      <FileName>Controls.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Asteroids.UfoDirection" Collapsed="true">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Ufo.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,481 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SequenceDesignerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" dslVersion="1.0.0.0" Id="0466f179-4cc4-4562-8a67-4ddcca8c4990" name="World_Update" mode="DotNet" xmlns="http://schemas.microsoft.com/VisualStudio/TeamArchitect/SequenceDesigner">
+  <packagedElements>
+    <packageHasNamedElement>
+      <interaction Id="565da094-2fc6-4c63-b0f2-8978b3797d74" name="World_Update" collapseFragmentsFlag="false" isActiveClass="false" isAbstract="false" isLeaf="false" isReentrant="false">
+        <fragments>
+          <behaviorExecutionSpecification Id="7dac45cb-80d6-47a1-b9f6-fe37316b0c84" name="BehaviorExecutionSpecification">
+            <coveredLifelines>
+              <lifelineMoniker Id="83e2b0ec-be68-486c-9a1d-b2c406523e88" LastKnownName="World" />
+            </coveredLifelines>
+            <finish>
+              <executionOccurrenceSpecificationMoniker Id="3e5c38ec-9140-4e62-8e4c-9b5b673069c4" LastKnownName="ExecutionOccurrenceSpecification" />
+            </finish>
+            <start>
+              <executionOccurrenceSpecificationMoniker Id="56a580fe-c86f-41b6-8a67-689cdb7c633c" LastKnownName="ExecutionOccurrenceSpecification" />
+            </start>
+            <nestedOccurrences>
+              <messageOccurrenceSpecificationMoniker Id="bcce5953-551f-4e9d-a713-7ac322e292e6" LastKnownName="MessageOccurrenceSpecification" />
+              <operandOccurrenceSpecificationMoniker Id="a5f3578f-e4bf-42c3-b16b-63ebb07a41bf" LastKnownName="OperandOccurrenceSpecification" />
+              <operandOccurrenceSpecificationMoniker Id="2e5c575d-02ad-4bfc-9d16-09714a137286" LastKnownName="OperandOccurrenceSpecification" />
+              <messageOccurrenceSpecificationMoniker Id="c7dfa71e-893f-4e70-a28b-4dc9c4dde549" LastKnownName="MessageOccurrenceSpecification" />
+              <messageOccurrenceSpecificationMoniker Id="7a2ad8b3-004e-4dd4-ac88-9e5735a44fe9" LastKnownName="MessageOccurrenceSpecification" />
+              <operandOccurrenceSpecificationMoniker Id="4cee1dc8-b6a4-43ed-aebb-9b107e099355" LastKnownName="OperandOccurrenceSpecification" />
+              <messageOccurrenceSpecificationMoniker Id="e64efdde-cf74-4134-a8eb-3cf69da6b0bb" LastKnownName="MessageOccurrenceSpecification" />
+              <messageOccurrenceSpecificationMoniker Id="eed0063c-553b-400b-8c8e-642f3b5029b4" LastKnownName="MessageOccurrenceSpecification" />
+              <operandOccurrenceSpecificationMoniker Id="4d26aa89-4311-4228-b27e-714a806a8ba9" LastKnownName="OperandOccurrenceSpecification" />
+              <messageOccurrenceSpecificationMoniker Id="9388c343-1a34-4b96-b997-b5f9f1134f1e" LastKnownName="MessageOccurrenceSpecification" />
+              <messageOccurrenceSpecificationMoniker Id="6e7e4d81-92b1-4333-b6d7-ce6248497588" LastKnownName="MessageOccurrenceSpecification" />
+            </nestedOccurrences>
+          </behaviorExecutionSpecification>
+          <executionOccurrenceSpecification Id="56a580fe-c86f-41b6-8a67-689cdb7c633c" name="ExecutionOccurrenceSpecification">
+            <event>
+              <executionOccurrenceSpecificationReferencesEvent>
+                <executionEventMoniker Id="a680107b-58fc-4b09-ae8f-fce94fd47d51" LastKnownName="ExecutionEvent" />
+              </executionOccurrenceSpecificationReferencesEvent>
+            </event>
+            <covered>
+              <lifelineMoniker Id="83e2b0ec-be68-486c-9a1d-b2c406523e88" LastKnownName="World" />
+            </covered>
+          </executionOccurrenceSpecification>
+          <messageOccurrenceSpecification Id="bcce5953-551f-4e9d-a713-7ac322e292e6" name="MessageOccurrenceSpecification">
+            <covered>
+              <lifelineMoniker Id="83e2b0ec-be68-486c-9a1d-b2c406523e88" LastKnownName="World" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <lostFoundTarget Id="94d3959b-f866-47e5-9253-54a6c0566286" name="LostFoundTarget" />
+          <combinedFragment Id="d5416cdb-0087-47fc-b916-d04f96161743" name="CombinedFragment1" interactionOperator="Loop" customInteractionOperator="Loop">
+            <coveredLifelines>
+              <lifelineMoniker Id="83e2b0ec-be68-486c-9a1d-b2c406523e88" LastKnownName="World" />
+              <lifelineMoniker Id="de466309-f7f7-40f9-b010-2f4895d5bbf5" LastKnownName="World.asteroids : List&lt;Asteroid&gt;" />
+              <lifelineMoniker Id="0e5bdd09-6de6-4f35-bf80-ec3ca73a3aa4" LastKnownName="World.movables : List&lt;Movable&gt;" />
+            </coveredLifelines>
+            <operands>
+              <interactionOperand Id="2720a0d7-c896-4659-8d39-2dcb37b86aa4" name="InteractionOperand1">
+                <coveredLifelines>
+                  <lifelineMoniker Id="83e2b0ec-be68-486c-9a1d-b2c406523e88" LastKnownName="World" />
+                  <lifelineMoniker Id="de466309-f7f7-40f9-b010-2f4895d5bbf5" LastKnownName="World.asteroids : List&lt;Asteroid&gt;" />
+                  <lifelineMoniker Id="0e5bdd09-6de6-4f35-bf80-ec3ca73a3aa4" LastKnownName="World.movables : List&lt;Movable&gt;" />
+                </coveredLifelines>
+                <fragments>
+                  <combinedFragment Id="862eb2fa-e476-4998-b061-29eed46d6f10" name="CombinedFragment1" interactionOperator="Opt" customInteractionOperator="If">
+                    <coveredLifelines>
+                      <lifelineMoniker Id="83e2b0ec-be68-486c-9a1d-b2c406523e88" LastKnownName="World" />
+                      <lifelineMoniker Id="de466309-f7f7-40f9-b010-2f4895d5bbf5" LastKnownName="World.asteroids : List&lt;Asteroid&gt;" />
+                    </coveredLifelines>
+                    <operands>
+                      <interactionOperand Id="a03583ad-e2b6-4cc7-884f-a194a026694f" name="InteractionOperand1">
+                        <coveredLifelines>
+                          <lifelineMoniker Id="83e2b0ec-be68-486c-9a1d-b2c406523e88" LastKnownName="World" />
+                          <lifelineMoniker Id="de466309-f7f7-40f9-b010-2f4895d5bbf5" LastKnownName="World.asteroids : List&lt;Asteroid&gt;" />
+                        </coveredLifelines>
+                        <guard>
+                          <interactionConstraint Id="877bcfa2-ab6c-49cc-8d41-754eff27b707" guardText="if (m is Asteroid)" />
+                        </guard>
+                        <operandOccurrenceSpecifications>
+                          <operandOccurrenceSpecificationMoniker Id="2e5c575d-02ad-4bfc-9d16-09714a137286" LastKnownName="OperandOccurrenceSpecification" />
+                          <operandOccurrenceSpecificationMoniker Id="4cee1dc8-b6a4-43ed-aebb-9b107e099355" LastKnownName="OperandOccurrenceSpecification" />
+                          <operandOccurrenceSpecificationMoniker Id="cf3718c3-4229-4408-8541-a18a415cb7e3" LastKnownName="OperandOccurrenceSpecification" />
+                          <operandOccurrenceSpecificationMoniker Id="0ca0a413-123a-494e-8620-fc55cb9a13d2" LastKnownName="OperandOccurrenceSpecification" />
+                        </operandOccurrenceSpecifications>
+                      </interactionOperand>
+                    </operands>
+                  </combinedFragment>
+                </fragments>
+                <guard>
+                  <interactionConstraint Id="240e1593-cc61-40a2-9483-bb655a8d213b" guardText="foreach (spritesToBeAdded)">
+                    <maxInt>
+                      <literalString Id="deb94401-f2d4-4864-b46f-94a38b601b0d" name="LiteralString1" />
+                    </maxInt>
+                    <minInt>
+                      <literalString Id="5e3063ba-4962-4c1c-aa52-20400469c8e9" name="LiteralString2" />
+                    </minInt>
+                  </interactionConstraint>
+                </guard>
+                <operandOccurrenceSpecifications>
+                  <operandOccurrenceSpecificationMoniker Id="a5f3578f-e4bf-42c3-b16b-63ebb07a41bf" LastKnownName="OperandOccurrenceSpecification" />
+                  <operandOccurrenceSpecificationMoniker Id="4d26aa89-4311-4228-b27e-714a806a8ba9" LastKnownName="OperandOccurrenceSpecification" />
+                  <operandOccurrenceSpecificationMoniker Id="aa536dc9-bfde-4285-a46f-5d653f3096dd" LastKnownName="OperandOccurrenceSpecification" />
+                  <operandOccurrenceSpecificationMoniker Id="cf9e5fbf-0b95-4627-8166-b33eb3c38532" LastKnownName="OperandOccurrenceSpecification" />
+                  <operandOccurrenceSpecificationMoniker Id="edda3059-b0ba-4fe2-a79f-de1b4d36c199" LastKnownName="OperandOccurrenceSpecification" />
+                  <operandOccurrenceSpecificationMoniker Id="be5f1294-c98b-4714-a204-1a463b3ca989" LastKnownName="OperandOccurrenceSpecification" />
+                </operandOccurrenceSpecifications>
+              </interactionOperand>
+            </operands>
+          </combinedFragment>
+          <operandOccurrenceSpecification Id="edda3059-b0ba-4fe2-a79f-de1b4d36c199" name="OperandOccurrenceSpecification">
+            <covered>
+              <lifelineMoniker Id="0e5bdd09-6de6-4f35-bf80-ec3ca73a3aa4" LastKnownName="World.movables : List&lt;Movable&gt;" />
+            </covered>
+          </operandOccurrenceSpecification>
+          <operandOccurrenceSpecification Id="aa536dc9-bfde-4285-a46f-5d653f3096dd" name="OperandOccurrenceSpecification">
+            <covered>
+              <lifelineMoniker Id="de466309-f7f7-40f9-b010-2f4895d5bbf5" LastKnownName="World.asteroids : List&lt;Asteroid&gt;" />
+            </covered>
+          </operandOccurrenceSpecification>
+          <operandOccurrenceSpecification Id="a5f3578f-e4bf-42c3-b16b-63ebb07a41bf" name="OperandOccurrenceSpecification">
+            <covered>
+              <lifelineMoniker Id="83e2b0ec-be68-486c-9a1d-b2c406523e88" LastKnownName="World" />
+            </covered>
+          </operandOccurrenceSpecification>
+          <operandOccurrenceSpecification Id="cf3718c3-4229-4408-8541-a18a415cb7e3" name="OperandOccurrenceSpecification">
+            <covered>
+              <lifelineMoniker Id="de466309-f7f7-40f9-b010-2f4895d5bbf5" LastKnownName="World.asteroids : List&lt;Asteroid&gt;" />
+            </covered>
+          </operandOccurrenceSpecification>
+          <operandOccurrenceSpecification Id="2e5c575d-02ad-4bfc-9d16-09714a137286" name="OperandOccurrenceSpecification">
+            <covered>
+              <lifelineMoniker Id="83e2b0ec-be68-486c-9a1d-b2c406523e88" LastKnownName="World" />
+            </covered>
+          </operandOccurrenceSpecification>
+          <behaviorExecutionSpecification Id="586276de-d28a-416a-97d1-d2901606d7d8" name="BehaviorExecutionSpecification">
+            <coveredLifelines>
+              <lifelineMoniker Id="de466309-f7f7-40f9-b010-2f4895d5bbf5" LastKnownName="World.asteroids : List&lt;Asteroid&gt;" />
+            </coveredLifelines>
+            <finish>
+              <executionOccurrenceSpecificationMoniker Id="2da57f4b-c5c3-4e43-9654-c766cf006006" LastKnownName="ExecutionOccurrenceSpecification" />
+            </finish>
+            <start>
+              <executionOccurrenceSpecificationMoniker Id="04cf8574-8db2-4f4e-b127-31b4bddbf568" LastKnownName="ExecutionOccurrenceSpecification" />
+            </start>
+            <nestedOccurrences>
+              <messageOccurrenceSpecificationMoniker Id="054a584c-dab5-4fe7-a951-b31fc67c83e2" LastKnownName="MessageOccurrenceSpecification" />
+              <messageOccurrenceSpecificationMoniker Id="655377b6-31db-47f3-8ecb-5a35635fbcb5" LastKnownName="MessageOccurrenceSpecification" />
+            </nestedOccurrences>
+          </behaviorExecutionSpecification>
+          <executionOccurrenceSpecification Id="04cf8574-8db2-4f4e-b127-31b4bddbf568" name="ExecutionOccurrenceSpecification">
+            <event>
+              <executionOccurrenceSpecificationReferencesEvent>
+                <executionEventMoniker Id="3e1ea92e-6ff8-4210-b2dc-8c63fa1a3c48" LastKnownName="ExecutionEvent" />
+              </executionOccurrenceSpecificationReferencesEvent>
+            </event>
+            <covered>
+              <lifelineMoniker Id="de466309-f7f7-40f9-b010-2f4895d5bbf5" LastKnownName="World.asteroids : List&lt;Asteroid&gt;" />
+            </covered>
+          </executionOccurrenceSpecification>
+          <messageOccurrenceSpecification Id="c7dfa71e-893f-4e70-a28b-4dc9c4dde549" name="MessageOccurrenceSpecification">
+            <covered>
+              <lifelineMoniker Id="83e2b0ec-be68-486c-9a1d-b2c406523e88" LastKnownName="World" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification Id="054a584c-dab5-4fe7-a951-b31fc67c83e2" name="MessageOccurrenceSpecification">
+            <covered>
+              <lifelineMoniker Id="de466309-f7f7-40f9-b010-2f4895d5bbf5" LastKnownName="World.asteroids : List&lt;Asteroid&gt;" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification Id="655377b6-31db-47f3-8ecb-5a35635fbcb5" name="MessageOccurrenceSpecification">
+            <covered>
+              <lifelineMoniker Id="de466309-f7f7-40f9-b010-2f4895d5bbf5" LastKnownName="World.asteroids : List&lt;Asteroid&gt;" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification Id="7a2ad8b3-004e-4dd4-ac88-9e5735a44fe9" name="MessageOccurrenceSpecification">
+            <covered>
+              <lifelineMoniker Id="83e2b0ec-be68-486c-9a1d-b2c406523e88" LastKnownName="World" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <executionOccurrenceSpecification Id="2da57f4b-c5c3-4e43-9654-c766cf006006" name="ExecutionOccurrenceSpecification">
+            <event>
+              <executionOccurrenceSpecificationReferencesEvent>
+                <executionEventMoniker Id="f087a71f-8c2a-493e-95b9-20baf21ec48f" LastKnownName="ExecutionEvent" />
+              </executionOccurrenceSpecificationReferencesEvent>
+            </event>
+            <covered>
+              <lifelineMoniker Id="de466309-f7f7-40f9-b010-2f4895d5bbf5" LastKnownName="World.asteroids : List&lt;Asteroid&gt;" />
+            </covered>
+          </executionOccurrenceSpecification>
+          <operandOccurrenceSpecification Id="4cee1dc8-b6a4-43ed-aebb-9b107e099355" name="OperandOccurrenceSpecification">
+            <covered>
+              <lifelineMoniker Id="83e2b0ec-be68-486c-9a1d-b2c406523e88" LastKnownName="World" />
+            </covered>
+          </operandOccurrenceSpecification>
+          <operandOccurrenceSpecification Id="0ca0a413-123a-494e-8620-fc55cb9a13d2" name="OperandOccurrenceSpecification">
+            <covered>
+              <lifelineMoniker Id="de466309-f7f7-40f9-b010-2f4895d5bbf5" LastKnownName="World.asteroids : List&lt;Asteroid&gt;" />
+            </covered>
+          </operandOccurrenceSpecification>
+          <behaviorExecutionSpecification Id="3ee2ff02-fa96-48e7-9cbe-6d1b64e3ab0f" name="BehaviorExecutionSpecification">
+            <coveredLifelines>
+              <lifelineMoniker Id="0e5bdd09-6de6-4f35-bf80-ec3ca73a3aa4" LastKnownName="World.movables : List&lt;Movable&gt;" />
+            </coveredLifelines>
+            <finish>
+              <executionOccurrenceSpecificationMoniker Id="130988fe-94f1-4e86-aa31-0d75e2aa1f87" LastKnownName="ExecutionOccurrenceSpecification" />
+            </finish>
+            <start>
+              <executionOccurrenceSpecificationMoniker Id="2aa3234f-5f98-4dd2-ac24-c286f464eb29" LastKnownName="ExecutionOccurrenceSpecification" />
+            </start>
+            <nestedOccurrences>
+              <messageOccurrenceSpecificationMoniker Id="d6ea2ed9-27e8-4528-987c-1922f922fa15" LastKnownName="MessageOccurrenceSpecification" />
+              <messageOccurrenceSpecificationMoniker Id="93f24847-395a-46d0-8f2f-255560652cc0" LastKnownName="MessageOccurrenceSpecification" />
+            </nestedOccurrences>
+          </behaviorExecutionSpecification>
+          <executionOccurrenceSpecification Id="2aa3234f-5f98-4dd2-ac24-c286f464eb29" name="ExecutionOccurrenceSpecification">
+            <event>
+              <executionOccurrenceSpecificationReferencesEvent>
+                <executionEventMoniker Id="02bc62f4-5e40-4f2d-9e43-5c249353813e" LastKnownName="ExecutionEvent" />
+              </executionOccurrenceSpecificationReferencesEvent>
+            </event>
+            <covered>
+              <lifelineMoniker Id="0e5bdd09-6de6-4f35-bf80-ec3ca73a3aa4" LastKnownName="World.movables : List&lt;Movable&gt;" />
+            </covered>
+          </executionOccurrenceSpecification>
+          <messageOccurrenceSpecification Id="d6ea2ed9-27e8-4528-987c-1922f922fa15" name="MessageOccurrenceSpecification">
+            <covered>
+              <lifelineMoniker Id="0e5bdd09-6de6-4f35-bf80-ec3ca73a3aa4" LastKnownName="World.movables : List&lt;Movable&gt;" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification Id="e64efdde-cf74-4134-a8eb-3cf69da6b0bb" name="MessageOccurrenceSpecification">
+            <covered>
+              <lifelineMoniker Id="83e2b0ec-be68-486c-9a1d-b2c406523e88" LastKnownName="World" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification Id="eed0063c-553b-400b-8c8e-642f3b5029b4" name="MessageOccurrenceSpecification">
+            <covered>
+              <lifelineMoniker Id="83e2b0ec-be68-486c-9a1d-b2c406523e88" LastKnownName="World" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification Id="93f24847-395a-46d0-8f2f-255560652cc0" name="MessageOccurrenceSpecification">
+            <covered>
+              <lifelineMoniker Id="0e5bdd09-6de6-4f35-bf80-ec3ca73a3aa4" LastKnownName="World.movables : List&lt;Movable&gt;" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <executionOccurrenceSpecification Id="130988fe-94f1-4e86-aa31-0d75e2aa1f87" name="ExecutionOccurrenceSpecification">
+            <event>
+              <executionOccurrenceSpecificationReferencesEvent>
+                <executionEventMoniker Id="d8efa4d6-3664-4a84-81b0-e1f4e93815cc" LastKnownName="ExecutionEvent" />
+              </executionOccurrenceSpecificationReferencesEvent>
+            </event>
+            <covered>
+              <lifelineMoniker Id="0e5bdd09-6de6-4f35-bf80-ec3ca73a3aa4" LastKnownName="World.movables : List&lt;Movable&gt;" />
+            </covered>
+          </executionOccurrenceSpecification>
+          <operandOccurrenceSpecification Id="be5f1294-c98b-4714-a204-1a463b3ca989" name="OperandOccurrenceSpecification">
+            <covered>
+              <lifelineMoniker Id="0e5bdd09-6de6-4f35-bf80-ec3ca73a3aa4" LastKnownName="World.movables : List&lt;Movable&gt;" />
+            </covered>
+          </operandOccurrenceSpecification>
+          <operandOccurrenceSpecification Id="cf9e5fbf-0b95-4627-8166-b33eb3c38532" name="OperandOccurrenceSpecification">
+            <covered>
+              <lifelineMoniker Id="de466309-f7f7-40f9-b010-2f4895d5bbf5" LastKnownName="World.asteroids : List&lt;Asteroid&gt;" />
+            </covered>
+          </operandOccurrenceSpecification>
+          <operandOccurrenceSpecification Id="4d26aa89-4311-4228-b27e-714a806a8ba9" name="OperandOccurrenceSpecification">
+            <covered>
+              <lifelineMoniker Id="83e2b0ec-be68-486c-9a1d-b2c406523e88" LastKnownName="World" />
+            </covered>
+          </operandOccurrenceSpecification>
+          <behaviorExecutionSpecification Id="a096a7ec-06d1-4912-8dac-4e5390bb0ea2" name="BehaviorExecutionSpecification">
+            <coveredLifelines>
+              <lifelineMoniker Id="faba7cd1-256c-4cbf-b8ac-55ea670782dd" LastKnownName="World.spritesToBeAdded : List&lt;Movable&gt;" />
+            </coveredLifelines>
+            <finish>
+              <executionOccurrenceSpecificationMoniker Id="084a33d4-4bff-4c6b-a4ff-f76b350f93b7" LastKnownName="ExecutionOccurrenceSpecification" />
+            </finish>
+            <start>
+              <executionOccurrenceSpecificationMoniker Id="ebaff3bd-3c05-4ff1-ad6b-99889550c9c0" LastKnownName="ExecutionOccurrenceSpecification" />
+            </start>
+            <nestedOccurrences>
+              <messageOccurrenceSpecificationMoniker Id="38be874a-2671-4d1e-a106-7298f835a5a2" LastKnownName="MessageOccurrenceSpecification" />
+              <messageOccurrenceSpecificationMoniker Id="a52bca9e-22bc-4342-8677-69368b8c704d" LastKnownName="MessageOccurrenceSpecification" />
+            </nestedOccurrences>
+          </behaviorExecutionSpecification>
+          <executionOccurrenceSpecification Id="ebaff3bd-3c05-4ff1-ad6b-99889550c9c0" name="ExecutionOccurrenceSpecification">
+            <event>
+              <executionOccurrenceSpecificationReferencesEvent>
+                <executionEventMoniker Id="c63bd59b-195c-4ab8-9727-085857b9681d" LastKnownName="ExecutionEvent" />
+              </executionOccurrenceSpecificationReferencesEvent>
+            </event>
+            <covered>
+              <lifelineMoniker Id="faba7cd1-256c-4cbf-b8ac-55ea670782dd" LastKnownName="World.spritesToBeAdded : List&lt;Movable&gt;" />
+            </covered>
+          </executionOccurrenceSpecification>
+          <messageOccurrenceSpecification Id="38be874a-2671-4d1e-a106-7298f835a5a2" name="MessageOccurrenceSpecification">
+            <covered>
+              <lifelineMoniker Id="faba7cd1-256c-4cbf-b8ac-55ea670782dd" LastKnownName="World.spritesToBeAdded : List&lt;Movable&gt;" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification Id="9388c343-1a34-4b96-b997-b5f9f1134f1e" name="MessageOccurrenceSpecification">
+            <covered>
+              <lifelineMoniker Id="83e2b0ec-be68-486c-9a1d-b2c406523e88" LastKnownName="World" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification Id="6e7e4d81-92b1-4333-b6d7-ce6248497588" name="MessageOccurrenceSpecification">
+            <covered>
+              <lifelineMoniker Id="83e2b0ec-be68-486c-9a1d-b2c406523e88" LastKnownName="World" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <messageOccurrenceSpecification Id="a52bca9e-22bc-4342-8677-69368b8c704d" name="MessageOccurrenceSpecification">
+            <covered>
+              <lifelineMoniker Id="faba7cd1-256c-4cbf-b8ac-55ea670782dd" LastKnownName="World.spritesToBeAdded : List&lt;Movable&gt;" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <executionOccurrenceSpecification Id="084a33d4-4bff-4c6b-a4ff-f76b350f93b7" name="ExecutionOccurrenceSpecification">
+            <event>
+              <executionOccurrenceSpecificationReferencesEvent>
+                <executionEventMoniker Id="6c3c93be-5c7f-4b7d-b0b4-8231b546c172" LastKnownName="ExecutionEvent" />
+              </executionOccurrenceSpecificationReferencesEvent>
+            </event>
+            <covered>
+              <lifelineMoniker Id="faba7cd1-256c-4cbf-b8ac-55ea670782dd" LastKnownName="World.spritesToBeAdded : List&lt;Movable&gt;" />
+            </covered>
+          </executionOccurrenceSpecification>
+          <executionOccurrenceSpecification Id="3e5c38ec-9140-4e62-8e4c-9b5b673069c4" name="ExecutionOccurrenceSpecification">
+            <event>
+              <executionOccurrenceSpecificationReferencesEvent>
+                <executionEventMoniker Id="6a5197d1-f967-45e0-902e-0b6872d3b990" LastKnownName="ExecutionEvent" />
+              </executionOccurrenceSpecificationReferencesEvent>
+            </event>
+            <covered>
+              <lifelineMoniker Id="83e2b0ec-be68-486c-9a1d-b2c406523e88" LastKnownName="World" />
+            </covered>
+          </executionOccurrenceSpecification>
+        </fragments>
+        <lifelines>
+          <lifeline Id="83e2b0ec-be68-486c-9a1d-b2c406523e88" name="World" isActor="false" lifelineDisplayName="World" referencedType="Asteroids.World">
+            <referencesInternal>
+              <reference Id="cf1f7da1-a8f1-47d6-b27c-148eea828206" handle="+ Id.Equals(&quot;Microsoft.Solution.ClassView&quot;) /&#xD;&#xA;/&#xD;&#xA;+ Id.EqualsIgnoreCase(&quot;(Namespace=Asteroids)&quot;)/&#xD;&#xA;&quot;Microsoft.Contains&quot;/&#xD;&#xA;+ Id.EqualsIgnoreCase(&quot;(Assembly=&amp;quot;$(14c85de9-3614-46f9-a831-661f74aedc0d.OutputPathUri)&amp;quot; Namespace=Asteroids Type=World)&quot;)" tag="DGQL" />
+              <reference Id="43f6302e-fb15-4f78-b069-9802ab853705" handle="(Assembly=&quot;$(14c85de9-3614-46f9-a831-661f74aedc0d.OutputPathUri)&quot; Namespace=Asteroids Type=World)" tag="DGML" />
+            </referencesInternal>
+            <topLevelOccurrences>
+              <executionOccurrenceSpecificationMoniker Id="56a580fe-c86f-41b6-8a67-689cdb7c633c" LastKnownName="ExecutionOccurrenceSpecification" />
+              <executionOccurrenceSpecificationMoniker Id="3e5c38ec-9140-4e62-8e4c-9b5b673069c4" LastKnownName="ExecutionOccurrenceSpecification" />
+            </topLevelOccurrences>
+          </lifeline>
+          <lifeline Id="de466309-f7f7-40f9-b010-2f4895d5bbf5" name="World.asteroids : List&lt;Asteroid&gt;" isActor="false" lifelineDisplayName="World.asteroids : List&lt;Asteroid&gt;" referencedInstance="(Assembly=&quot;$(14c85de9-3614-46f9-a831-661f74aedc0d.OutputPathUri)&quot; Namespace=Asteroids Type=World Member=asteroids ObjectInstance=&quot;Object instance 4&quot;)" referencedType="System.Collections.Generic.List&lt;Asteroid&gt;">
+            <referencesInternal>
+              <reference Id="47ba0810-c6e1-48cb-8b0c-039e256125c2" handle="+ Id.Equals(&quot;Microsoft.Solution.ClassView&quot;) /&#xD;&#xA;/&#xD;&#xA;+ Id.EqualsIgnoreCase(&quot;(Namespace=System.Collections.Generic)&quot;)/&#xD;&#xA;&quot;Microsoft.Contains&quot;/&#xD;&#xA;+ Id.EqualsIgnoreCase(&quot;(Assembly=&amp;quot;$(FxReferenceAssembliesUri)/.NETFramework/v4.0/Profile/Client/mscorlib.dll&amp;quot; Namespace=System.Collections.Generic Type=(Name=List GenericParameterCount=1))&quot;)" tag="DGQL" />
+              <reference Id="8c596a33-1ff6-4ffe-91de-89c0de6afe58" handle="(Assembly=&quot;$(FxReferenceAssembliesUri)/.NETFramework/v4.0/Profile/Client/mscorlib.dll&quot; Namespace=System.Collections.Generic Type=(Name=List GenericParameterCount=1))" tag="DGML" />
+            </referencesInternal>
+            <topLevelOccurrences>
+              <operandOccurrenceSpecificationMoniker Id="aa536dc9-bfde-4285-a46f-5d653f3096dd" LastKnownName="OperandOccurrenceSpecification" />
+              <operandOccurrenceSpecificationMoniker Id="cf3718c3-4229-4408-8541-a18a415cb7e3" LastKnownName="OperandOccurrenceSpecification" />
+              <executionOccurrenceSpecificationMoniker Id="04cf8574-8db2-4f4e-b127-31b4bddbf568" LastKnownName="ExecutionOccurrenceSpecification" />
+              <executionOccurrenceSpecificationMoniker Id="2da57f4b-c5c3-4e43-9654-c766cf006006" LastKnownName="ExecutionOccurrenceSpecification" />
+              <operandOccurrenceSpecificationMoniker Id="0ca0a413-123a-494e-8620-fc55cb9a13d2" LastKnownName="OperandOccurrenceSpecification" />
+              <operandOccurrenceSpecificationMoniker Id="cf9e5fbf-0b95-4627-8166-b33eb3c38532" LastKnownName="OperandOccurrenceSpecification" />
+            </topLevelOccurrences>
+          </lifeline>
+          <lifeline Id="0e5bdd09-6de6-4f35-bf80-ec3ca73a3aa4" name="World.movables : List&lt;Movable&gt;" isActor="false" lifelineDisplayName="World.movables : List&lt;Movable&gt;" referencedInstance="(Assembly=&quot;$(14c85de9-3614-46f9-a831-661f74aedc0d.OutputPathUri)&quot; Namespace=Asteroids Type=World Member=movables ObjectInstance=&quot;Object instance 8&quot;)" referencedType="System.Collections.Generic.List&lt;Movable&gt;">
+            <referencesInternal>
+              <reference Id="715e17cd-4a88-411e-bcd7-bab674bc241a" handle="+ Id.Equals(&quot;Microsoft.Solution.ClassView&quot;) /&#xD;&#xA;/&#xD;&#xA;+ Id.EqualsIgnoreCase(&quot;(Namespace=System.Collections.Generic)&quot;)/&#xD;&#xA;&quot;Microsoft.Contains&quot;/&#xD;&#xA;+ Id.EqualsIgnoreCase(&quot;(Assembly=&amp;quot;$(FxReferenceAssembliesUri)/.NETFramework/v4.0/Profile/Client/mscorlib.dll&amp;quot; Namespace=System.Collections.Generic Type=(Name=List GenericParameterCount=1))&quot;)" tag="DGQL" />
+              <reference Id="09c30fcd-480d-4053-a8a6-7ab3694a0087" handle="(Assembly=&quot;$(FxReferenceAssembliesUri)/.NETFramework/v4.0/Profile/Client/mscorlib.dll&quot; Namespace=System.Collections.Generic Type=(Name=List GenericParameterCount=1))" tag="DGML" />
+            </referencesInternal>
+            <topLevelOccurrences>
+              <operandOccurrenceSpecificationMoniker Id="edda3059-b0ba-4fe2-a79f-de1b4d36c199" LastKnownName="OperandOccurrenceSpecification" />
+              <executionOccurrenceSpecificationMoniker Id="2aa3234f-5f98-4dd2-ac24-c286f464eb29" LastKnownName="ExecutionOccurrenceSpecification" />
+              <executionOccurrenceSpecificationMoniker Id="130988fe-94f1-4e86-aa31-0d75e2aa1f87" LastKnownName="ExecutionOccurrenceSpecification" />
+              <operandOccurrenceSpecificationMoniker Id="be5f1294-c98b-4714-a204-1a463b3ca989" LastKnownName="OperandOccurrenceSpecification" />
+            </topLevelOccurrences>
+          </lifeline>
+          <lifeline Id="faba7cd1-256c-4cbf-b8ac-55ea670782dd" name="World.spritesToBeAdded : List&lt;Movable&gt;" isActor="false" lifelineDisplayName="World.spritesToBeAdded : List&lt;Movable&gt;" referencedInstance="(Assembly=&quot;$(14c85de9-3614-46f9-a831-661f74aedc0d.OutputPathUri)&quot; Namespace=Asteroids Type=World Member=spritesToBeAdded ObjectInstance=&quot;Object instance 3&quot;)" referencedType="System.Collections.Generic.List&lt;Movable&gt;">
+            <referencesInternal>
+              <reference Id="362a7619-0738-4a3c-9a6b-7dcd2291ad9c" handle="+ Id.Equals(&quot;Microsoft.Solution.ClassView&quot;) /&#xD;&#xA;/&#xD;&#xA;+ Id.EqualsIgnoreCase(&quot;(Namespace=System.Collections.Generic)&quot;)/&#xD;&#xA;&quot;Microsoft.Contains&quot;/&#xD;&#xA;+ Id.EqualsIgnoreCase(&quot;(Assembly=&amp;quot;$(FxReferenceAssembliesUri)/.NETFramework/v4.0/Profile/Client/mscorlib.dll&amp;quot; Namespace=System.Collections.Generic Type=(Name=List GenericParameterCount=1))&quot;)" tag="DGQL" />
+              <reference Id="863efa1a-4a2e-4b54-8173-ade7d16ddebe" handle="(Assembly=&quot;$(FxReferenceAssembliesUri)/.NETFramework/v4.0/Profile/Client/mscorlib.dll&quot; Namespace=System.Collections.Generic Type=(Name=List GenericParameterCount=1))" tag="DGML" />
+            </referencesInternal>
+            <topLevelOccurrences>
+              <executionOccurrenceSpecificationMoniker Id="ebaff3bd-3c05-4ff1-ad6b-99889550c9c0" LastKnownName="ExecutionOccurrenceSpecification" />
+              <executionOccurrenceSpecificationMoniker Id="084a33d4-4bff-4c6b-a4ff-f76b350f93b7" LastKnownName="ExecutionOccurrenceSpecification" />
+            </topLevelOccurrences>
+          </lifeline>
+        </lifelines>
+        <messages>
+          <message Id="09732cee-ac91-4e4d-84d5-a1432850d37c" name="Update" messageKind="Found" messageSort="AsynchCall" createSelfMessage="false">
+            <referencesInternal>
+              <reference Id="25b96315-20d5-4337-82a7-c007687eecd2" handle="+ Id.Equals(&quot;Microsoft.Solution.ClassView&quot;) /&#xD;&#xA;/&#xD;&#xA;+ Id.EqualsIgnoreCase(&quot;(Namespace=Asteroids)&quot;)/&#xD;&#xA;&quot;Microsoft.Contains&quot;/&#xD;&#xA;+ Id.EqualsIgnoreCase(&quot;(Assembly=&amp;quot;$(14c85de9-3614-46f9-a831-661f74aedc0d.OutputPathUri)&amp;quot; Namespace=Asteroids Type=World)&quot;)/&#xD;&#xA;&quot;Microsoft.Contains&quot;/&#xD;&#xA;+ Id.EqualsIgnoreCase(&quot;(Assembly=&amp;quot;$(14c85de9-3614-46f9-a831-661f74aedc0d.OutputPathUri)&amp;quot; Namespace=Asteroids Type=World Member=Update)&quot;)" tag="DGQL" />
+              <reference Id="b160ea1d-458f-4d48-81b5-220dfd0be829" handle="(Assembly=&quot;$(14c85de9-3614-46f9-a831-661f74aedc0d.OutputPathUri)&quot; Namespace=Asteroids Type=World Member=Update)" tag="DGML" />
+            </referencesInternal>
+            <sendEvent>
+              <lostFoundTargetMoniker Id="94d3959b-f866-47e5-9253-54a6c0566286" LastKnownName="LostFoundTarget" />
+            </sendEvent>
+            <receiveEvent>
+              <messageOccurrenceSpecificationMoniker Id="bcce5953-551f-4e9d-a713-7ac322e292e6" LastKnownName="MessageOccurrenceSpecification" />
+            </receiveEvent>
+          </message>
+          <message Id="c45494f8-9c75-4a91-b88a-83835225288b" name="Add" messageKind="Complete" messageSort="SynchCall" createSelfMessage="false" signatureText="asteroids.Add((Asteroid)m)">
+            <referencesInternal>
+              <reference Id="4ab54ada-5172-48ba-bdfb-3d331cda1e27" handle="+ Id.Equals(&quot;Microsoft.Solution.ClassView&quot;) /&#xD;&#xA;/&#xD;&#xA;+ Id.EqualsIgnoreCase(&quot;(Namespace=System.Collections.Generic)&quot;)/&#xD;&#xA;&quot;Microsoft.Contains&quot;/&#xD;&#xA;+ Id.EqualsIgnoreCase(&quot;(Assembly=&amp;quot;$(FxReferenceAssembliesUri)/.NETFramework/v4.0/Profile/Client/mscorlib.dll&amp;quot; Namespace=System.Collections.Generic Type=(Name=List GenericParameterCount=1))&quot;)/&#xD;&#xA;&quot;Microsoft.Contains&quot;/&#xD;&#xA;+ Id.EqualsIgnoreCase(&quot;(Assembly=&amp;quot;$(FxReferenceAssembliesUri)/.NETFramework/v4.0/Profile/Client/mscorlib.dll&amp;quot; Namespace=System.Collections.Generic Type=(Name=List GenericParameterCount=1) Member=(Name=Add OverloadingParameters=[(Type=T)]))&quot;)" tag="DGQL" />
+              <reference Id="df4579ba-e968-4c8b-a904-b7ee363709e4" handle="(Assembly=&quot;$(FxReferenceAssembliesUri)/.NETFramework/v4.0/Profile/Client/mscorlib.dll&quot; Namespace=System.Collections.Generic Type=(Name=List GenericParameterCount=1) Member=(Name=Add OverloadingParameters=[(Type=T)]))" tag="DGML" />
+            </referencesInternal>
+            <sendEvent>
+              <messageOccurrenceSpecificationMoniker Id="c7dfa71e-893f-4e70-a28b-4dc9c4dde549" LastKnownName="MessageOccurrenceSpecification" />
+            </sendEvent>
+            <receiveEvent>
+              <messageOccurrenceSpecificationMoniker Id="054a584c-dab5-4fe7-a951-b31fc67c83e2" LastKnownName="MessageOccurrenceSpecification" />
+            </receiveEvent>
+          </message>
+          <message Id="b2bc441c-3986-45c0-bc70-6428e6122bdb" name="&lt;&lt;return&gt;&gt;" messageKind="Complete" messageSort="Reply" createSelfMessage="false">
+            <sendEvent>
+              <messageOccurrenceSpecificationMoniker Id="655377b6-31db-47f3-8ecb-5a35635fbcb5" LastKnownName="MessageOccurrenceSpecification" />
+            </sendEvent>
+            <receiveEvent>
+              <messageOccurrenceSpecificationMoniker Id="7a2ad8b3-004e-4dd4-ac88-9e5735a44fe9" LastKnownName="MessageOccurrenceSpecification" />
+            </receiveEvent>
+          </message>
+          <message Id="d2970571-7b1c-4bc0-96ca-65b5e42d2964" name="Add" messageKind="Complete" messageSort="SynchCall" createSelfMessage="false" signatureText="movables.Add(m)">
+            <referencesInternal>
+              <reference Id="7a6d8ed3-8651-4e24-95c8-82beb9f40679" handle="+ Id.Equals(&quot;Microsoft.Solution.ClassView&quot;) /&#xD;&#xA;/&#xD;&#xA;+ Id.EqualsIgnoreCase(&quot;(Namespace=System.Collections.Generic)&quot;)/&#xD;&#xA;&quot;Microsoft.Contains&quot;/&#xD;&#xA;+ Id.EqualsIgnoreCase(&quot;(Assembly=&amp;quot;$(FxReferenceAssembliesUri)/.NETFramework/v4.0/Profile/Client/mscorlib.dll&amp;quot; Namespace=System.Collections.Generic Type=(Name=List GenericParameterCount=1))&quot;)/&#xD;&#xA;&quot;Microsoft.Contains&quot;/&#xD;&#xA;+ Id.EqualsIgnoreCase(&quot;(Assembly=&amp;quot;$(FxReferenceAssembliesUri)/.NETFramework/v4.0/Profile/Client/mscorlib.dll&amp;quot; Namespace=System.Collections.Generic Type=(Name=List GenericParameterCount=1) Member=(Name=Add OverloadingParameters=[(Type=T)]))&quot;)" tag="DGQL" />
+              <reference Id="e495de64-e4b6-451b-a8db-eadc94a19a51" handle="(Assembly=&quot;$(FxReferenceAssembliesUri)/.NETFramework/v4.0/Profile/Client/mscorlib.dll&quot; Namespace=System.Collections.Generic Type=(Name=List GenericParameterCount=1) Member=(Name=Add OverloadingParameters=[(Type=T)]))" tag="DGML" />
+            </referencesInternal>
+            <sendEvent>
+              <messageOccurrenceSpecificationMoniker Id="e64efdde-cf74-4134-a8eb-3cf69da6b0bb" LastKnownName="MessageOccurrenceSpecification" />
+            </sendEvent>
+            <receiveEvent>
+              <messageOccurrenceSpecificationMoniker Id="d6ea2ed9-27e8-4528-987c-1922f922fa15" LastKnownName="MessageOccurrenceSpecification" />
+            </receiveEvent>
+          </message>
+          <message Id="84ce02df-8f22-4a69-8d57-24d8349d79bf" name="&lt;&lt;return&gt;&gt;" messageKind="Complete" messageSort="Reply" createSelfMessage="false">
+            <sendEvent>
+              <messageOccurrenceSpecificationMoniker Id="93f24847-395a-46d0-8f2f-255560652cc0" LastKnownName="MessageOccurrenceSpecification" />
+            </sendEvent>
+            <receiveEvent>
+              <messageOccurrenceSpecificationMoniker Id="eed0063c-553b-400b-8c8e-642f3b5029b4" LastKnownName="MessageOccurrenceSpecification" />
+            </receiveEvent>
+          </message>
+          <message Id="d7ece156-2202-48b0-9fc5-b7cdea1d12ef" name="Clear" messageKind="Complete" messageSort="SynchCall" createSelfMessage="false" signatureText="spritesToBeAdded.Clear()">
+            <referencesInternal>
+              <reference Id="019e7fcc-fb1d-41d2-a4b3-ee4ec38a6cee" handle="+ Id.Equals(&quot;Microsoft.Solution.ClassView&quot;) /&#xD;&#xA;/&#xD;&#xA;+ Id.EqualsIgnoreCase(&quot;(Namespace=System.Collections.Generic)&quot;)/&#xD;&#xA;&quot;Microsoft.Contains&quot;/&#xD;&#xA;+ Id.EqualsIgnoreCase(&quot;(Assembly=&amp;quot;$(FxReferenceAssembliesUri)/.NETFramework/v4.0/Profile/Client/mscorlib.dll&amp;quot; Namespace=System.Collections.Generic Type=(Name=List GenericParameterCount=1))&quot;)/&#xD;&#xA;&quot;Microsoft.Contains&quot;/&#xD;&#xA;+ Id.EqualsIgnoreCase(&quot;(Assembly=&amp;quot;$(FxReferenceAssembliesUri)/.NETFramework/v4.0/Profile/Client/mscorlib.dll&amp;quot; Namespace=System.Collections.Generic Type=(Name=List GenericParameterCount=1) Member=Clear)&quot;)" tag="DGQL" />
+              <reference Id="8dd5fac1-f483-442a-82c0-6a88b191fd73" handle="(Assembly=&quot;$(FxReferenceAssembliesUri)/.NETFramework/v4.0/Profile/Client/mscorlib.dll&quot; Namespace=System.Collections.Generic Type=(Name=List GenericParameterCount=1) Member=Clear)" tag="DGML" />
+            </referencesInternal>
+            <sendEvent>
+              <messageOccurrenceSpecificationMoniker Id="9388c343-1a34-4b96-b997-b5f9f1134f1e" LastKnownName="MessageOccurrenceSpecification" />
+            </sendEvent>
+            <receiveEvent>
+              <messageOccurrenceSpecificationMoniker Id="38be874a-2671-4d1e-a106-7298f835a5a2" LastKnownName="MessageOccurrenceSpecification" />
+            </receiveEvent>
+          </message>
+          <message Id="4a59b514-e5fd-4a9f-9265-8effb06e4a5b" name="&lt;&lt;return&gt;&gt;" messageKind="Complete" messageSort="Reply" createSelfMessage="false">
+            <sendEvent>
+              <messageOccurrenceSpecificationMoniker Id="a52bca9e-22bc-4342-8677-69368b8c704d" LastKnownName="MessageOccurrenceSpecification" />
+            </sendEvent>
+            <receiveEvent>
+              <messageOccurrenceSpecificationMoniker Id="6e7e4d81-92b1-4333-b6d7-ce6248497588" LastKnownName="MessageOccurrenceSpecification" />
+            </receiveEvent>
+          </message>
+        </messages>
+      </interaction>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <executionEvent Id="a680107b-58fc-4b09-ae8f-fce94fd47d51" name="ExecutionEvent" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <executionEvent Id="6a5197d1-f967-45e0-902e-0b6872d3b990" name="ExecutionEvent" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <executionEvent Id="3e1ea92e-6ff8-4210-b2dc-8c63fa1a3c48" name="ExecutionEvent" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <executionEvent Id="f087a71f-8c2a-493e-95b9-20baf21ec48f" name="ExecutionEvent" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <executionEvent Id="02bc62f4-5e40-4f2d-9e43-5c249353813e" name="ExecutionEvent" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <executionEvent Id="d8efa4d6-3664-4a84-81b0-e1f4e93815cc" name="ExecutionEvent" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <executionEvent Id="c63bd59b-195c-4ab8-9727-085857b9681d" name="ExecutionEvent" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <executionEvent Id="6c3c93be-5c7f-4b7d-b0b4-8231b546c172" name="ExecutionEvent" />
+    </packageHasNamedElement>
+  </packagedElements>
+</SequenceDesignerModel>

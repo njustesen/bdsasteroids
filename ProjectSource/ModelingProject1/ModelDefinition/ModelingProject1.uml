@@ -1,0 +1,1145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modelStoreModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/SimpleShapesModel" xmlns:dm9="http://schemas.microsoft.com/dsltools/UseCaseModel"
+  dslVersion="1.0.0.0"
+  Id="cb69e097-5059-44b9-bef4-3ea1b861e8b6"
+  name="ModelingProject1" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <ownedCommentsInternal>
+    <comment
+      Id="87ccf27d-8df0-42bc-9b6b-1bf3d3a7ef45">
+      <body>Starts the game</body>
+    </comment>
+    <comment
+      Id="6335a373-5a91-424f-b5f6-613e8dc65d89">
+      <body>Starts the game</body>
+    </comment>
+    <comment
+      Id="5db68ee4-67cb-4e21-910b-662e201d0df8">
+      <body>Starts the game</body>
+    </comment>
+    <comment
+      Id="83ade023-8bd5-419f-ab99-f1e49652ba70">
+      <body>Starts the game without a registered user</body>
+    </comment>
+    <comment
+      Id="1134115d-a2b8-45c4-b97c-e5254be32929">
+      <body>Starts the game</body>
+    </comment>
+    <comment
+      Id="05e18a31-5be7-445c-848e-303c63228a82">
+      <body>Returns to log in screen.</body>
+    </comment>
+  </ownedCommentsInternal>
+  <profileInstances>
+    <packageHasProfileInstances
+      Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b">
+      <profileInstance
+        Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791"
+        name="StandardProfileL2" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances
+      Id="29349502-908c-4fda-9054-c48619c59ed0">
+      <profileInstance
+        Id="532ea607-fb19-44b8-8502-3351b05452be"
+        name="StandardProfileL3" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <packageHasNamedElement>
+      <actor
+        Id="982c0612-375b-4bb0-bc48-af3afcb5b0cd"
+        name="Userinput"
+        isAbstract="false"
+        isLeaf="false">
+        <targetEnds>
+          <association
+            Id="514c2813-c557-4d9a-9045-640265f55aa4"
+            isDerived="false"
+            sourceEndRoleName="Userinput"
+            targetEndRoleName="Start"
+            isLeaf="false"
+            name="1"
+            isAbstract="false">
+            <useCaseMoniker
+              Id="76e3d9b9-1743-4359-b6e5-07bd4c3100d0"
+              LastKnownName="New Game"
+              LastKnownLocation="ModelingProject1.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="70ebc578-98e5-4da4-b5da-890f5ef87ab5"
+                  name="Userinput"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="cd2ab30d-9386-4923-9ae2-a30fdc604ab7"
+                  name="Start"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+          <association
+            Id="04b66a6f-6184-4923-9b9a-ea7f7257402e"
+            isDerived="false"
+            sourceEndRoleName="Userinput"
+            targetEndRoleName="Read about the game and authors"
+            isLeaf="false"
+            name="Optional"
+            isAbstract="false">
+            <useCaseMoniker
+              Id="11c5db16-c9cc-4b0f-a790-e46ca25a2e74"
+              LastKnownName="Read about the game and authors"
+              LastKnownLocation="ModelingProject1.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="90498ef4-efec-4f1c-8992-1bd6f43ef419"
+                  name="Userinput"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="0d042417-28df-4d76-b0c5-102e417bb87a"
+                  name="Read about the game and authors"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+          <association
+            Id="6fdb2b6b-1595-4a53-9213-543f9bde3c32"
+            isDerived="false"
+            sourceEndRoleName="Userinput"
+            targetEndRoleName="Exit"
+            isLeaf="false"
+            name="Optional"
+            isAbstract="false">
+            <useCaseMoniker
+              Id="88d70ae3-19e6-4c46-a318-d07dbd283f40"
+              LastKnownName="Exit"
+              LastKnownLocation="ModelingProject1.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="b1f69a25-5ca3-4134-a76d-b4d53e9f4329"
+                  name="Userinput"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="c49f0873-ffb4-4ced-831a-e76213707438"
+                  name="Exit"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+          <association
+            Id="a986199e-a0d5-43fa-8df3-0c6f32bcebe6"
+            isDerived="false"
+            sourceEndRoleName="Userinput"
+            targetEndRoleName="View highscore"
+            isLeaf="false"
+            name="Optional"
+            isAbstract="false">
+            <useCaseMoniker
+              Id="913cfca1-9696-4015-b1dc-3b96ba4e7f91"
+              LastKnownName="View highscore"
+              LastKnownLocation="ModelingProject1.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="92b1c5cf-9d27-433c-85a3-f8d7a1e71064"
+                  name="Userinput"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="96813920-b037-4fff-815d-2a9353f7489f"
+                  name="View highscore"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+          <association
+            Id="09239311-4b99-46ad-a2c2-3ae0196dbdcd"
+            isDerived="false"
+            sourceEndRoleName="Userinput"
+            targetEndRoleName="Settings"
+            isLeaf="false"
+            name="Optional"
+            isAbstract="false">
+            <useCaseMoniker
+              Id="1f0b122c-6646-4813-863d-21d31e8e6eb4"
+              LastKnownName="Settings"
+              LastKnownLocation="ModelingProject1.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="9b27f396-3523-49a4-9307-ac9baa7e7186"
+                  name="Userinput"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="cafa7f01-a871-4f64-a5c7-be058696cd1c"
+                  name="Settings"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+        </targetEnds>
+      </actor>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="76e3d9b9-1743-4359-b6e5-07bd4c3100d0"
+        name="New Game"
+        isAbstract="false"
+        isLeaf="false">
+        <targetEnds>
+          <association
+            Id="61d9a1ab-1b3e-4941-9e98-4ff502e4dd5b"
+            isDerived="false"
+            sourceEndRoleName="Start"
+            targetEndRoleName="Choose number of players"
+            isLeaf="false"
+            name="2"
+            isAbstract="false">
+            <useCaseMoniker
+              Id="67c6bd0f-fafc-4635-ae18-22bc6592e4fd"
+              LastKnownName="2 player"
+              LastKnownLocation="ModelingProject1.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="ea051bfb-fda1-4bb0-82c7-abb843b0d2d6"
+                  name="Start"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="cb3b7d40-673a-4ca8-b889-3abd347e0316"
+                  name="Choose number of players"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+          <association
+            Id="86daa488-9653-442b-a828-d71c740336b0"
+            isDerived="false"
+            sourceEndRoleName="New Game"
+            targetEndRoleName="1 player"
+            isLeaf="false"
+            name="2"
+            isAbstract="false">
+            <useCaseMoniker
+              Id="d6a066c9-41cf-4f16-8395-ba808bfbf0c0"
+              LastKnownName="1 player"
+              LastKnownLocation="ModelingProject1.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="5d4307d6-4767-4ba5-abca-73eec0952601"
+                  name="New Game"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="b7078adf-6e68-49ae-8c4b-617741fb6aa5"
+                  name="1 player"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+          <association
+            Id="359c5edc-7728-4925-923b-5c9ae933ae2f"
+            isDerived="false"
+            sourceEndRoleName="New Game"
+            targetEndRoleName="3 player"
+            isLeaf="false"
+            name="2"
+            isAbstract="false">
+            <useCaseMoniker
+              Id="86505d89-822a-462f-bf1f-db21ab53b392"
+              LastKnownName="3 player"
+              LastKnownLocation="ModelingProject1.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="e5a4a722-69a4-4351-9bb6-c93287f8fe46"
+                  name="New Game"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="91ed2d04-70cf-4c27-a4a3-521e1853c449"
+                  name="3 player"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+          <association
+            Id="92b4bdb4-47a7-4425-9af6-622896550671"
+            isDerived="false"
+            sourceEndRoleName="New Game"
+            targetEndRoleName="4 player"
+            isLeaf="false"
+            name="2"
+            isAbstract="false">
+            <useCaseMoniker
+              Id="68118282-2417-4415-b7be-07108dbab979"
+              LastKnownName="4 player"
+              LastKnownLocation="ModelingProject1.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="6816a7cc-031a-4050-b051-2590e8ce5640"
+                  name="New Game"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="fcce432e-3377-413b-b8b1-aa9660ae0c08"
+                  name="4 player"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+        </targetEnds>
+      </useCase>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="11c5db16-c9cc-4b0f-a790-e46ca25a2e74"
+        name="Read about the game and authors"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="88d70ae3-19e6-4c46-a318-d07dbd283f40"
+        name="Exit"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="913cfca1-9696-4015-b1dc-3b96ba4e7f91"
+        name="View highscore"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="67c6bd0f-fafc-4635-ae18-22bc6592e4fd"
+        name="2 player"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <subsystem
+        Id="0b47865e-a86a-4c31-98c2-d726418dc413"
+        name="Options"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="45b74a00-afac-468f-9a39-4734df61cad9"
+        name="Sounds"
+        isAbstract="false"
+        isLeaf="false">
+        <targetEnds>
+          <association
+            Id="0a926bd5-376a-4c5b-9b30-575f36e5cb9f"
+            isDerived="false"
+            sourceEndRoleName="Set sound"
+            targetEndRoleName="Set music"
+            isLeaf="false"
+            isAbstract="false">
+            <useCaseMoniker
+              Id="a185aaf9-7a74-4544-bba1-a6e517e8265c"
+              LastKnownName="Video"
+              LastKnownLocation="ModelingProject1.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="44cc6bde-116b-45eb-b3dd-582634d950f4"
+                  name="Set sound"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="3a019156-72fe-42ae-a050-70a75ab59fe5"
+                  name="Set music"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+        </targetEnds>
+        <subjects>
+          <subsystemMoniker
+            Id="0b47865e-a86a-4c31-98c2-d726418dc413"
+            LastKnownName="Options"
+            LastKnownLocation="ModelingProject1.uml" />
+        </subjects>
+      </useCase>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="a185aaf9-7a74-4544-bba1-a6e517e8265c"
+        name="Video"
+        isAbstract="false"
+        isLeaf="false">
+        <targetEnds>
+          <association
+            Id="1f34922d-5a8b-40d1-a11b-aca93a3f02cc"
+            isDerived="false"
+            sourceEndRoleName="Set music"
+            targetEndRoleName="Set sound"
+            isLeaf="false"
+            isAbstract="false">
+            <useCaseMoniker
+              Id="45b74a00-afac-468f-9a39-4734df61cad9"
+              LastKnownName="Sounds"
+              LastKnownLocation="ModelingProject1.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="a2cdbd04-46ac-42f2-97cc-4cde3078d695"
+                  name="Set music"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="e703fc66-845c-4c13-8938-077400d4564f"
+                  name="Set sound"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+          <association
+            Id="b43ba14d-8758-4476-a674-e7e62462d085"
+            isDerived="false"
+            sourceEndRoleName="Set music"
+            targetEndRoleName="Player"
+            isLeaf="false"
+            isAbstract="false">
+            <useCaseMoniker
+              Id="6cc0bc0e-63d8-4651-b36a-81f064917ba9"
+              LastKnownName="Controls"
+              LastKnownLocation="ModelingProject1.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="492f4b94-0461-4675-a1dc-84a9823da6d8"
+                  name="Set music"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="99c745e7-764a-48b5-b5a8-0a3f7d08d6bc"
+                  name="Player"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+        </targetEnds>
+        <subjects>
+          <subsystemMoniker
+            Id="0b47865e-a86a-4c31-98c2-d726418dc413"
+            LastKnownName="Options"
+            LastKnownLocation="ModelingProject1.uml" />
+        </subjects>
+      </useCase>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="6cc0bc0e-63d8-4651-b36a-81f064917ba9"
+        name="Controls"
+        isAbstract="false"
+        isLeaf="false">
+        <targetEnds>
+          <association
+            Id="e054face-77c0-4801-be91-824f53d39917"
+            isDerived="false"
+            sourceEndRoleName="Player"
+            targetEndRoleName="Set music"
+            isLeaf="false"
+            isAbstract="false">
+            <useCaseMoniker
+              Id="a185aaf9-7a74-4544-bba1-a6e517e8265c"
+              LastKnownName="Video"
+              LastKnownLocation="ModelingProject1.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="cb7043ba-4398-4fcd-9dbe-2bf0b4c4690f"
+                  name="Player"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="d9692245-b045-476f-b6d5-929164c62e68"
+                  name="Set music"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+        </targetEnds>
+        <subjects>
+          <subsystemMoniker
+            Id="0b47865e-a86a-4c31-98c2-d726418dc413"
+            LastKnownName="Options"
+            LastKnownLocation="ModelingProject1.uml" />
+        </subjects>
+      </useCase>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="86505d89-822a-462f-bf1f-db21ab53b392"
+        name="3 player"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="68118282-2417-4415-b7be-07108dbab979"
+        name="4 player"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="d6a066c9-41cf-4f16-8395-ba808bfbf0c0"
+        name="1 player"
+        isAbstract="false"
+        isLeaf="false">
+        <targetEnds>
+          <association
+            Id="874d4ae3-0150-4253-8e4f-a85c06179c57"
+            isDerived="false"
+            sourceEndRoleName="1 player"
+            targetEndRoleName="Quick Game"
+            isLeaf="false"
+            name="3"
+            isAbstract="false">
+            <useCaseMoniker
+              Id="73b3f9ee-e8a1-497d-9bd9-028e82b161db"
+              LastKnownName="Quick Game"
+              LastKnownLocation="ModelingProject1.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="651d38fa-61ff-4c14-88a3-a80c25b077eb"
+                  name="1 player"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="a58e4e85-443f-4645-8e84-ae3e5013b138"
+                  name="Quick Game"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+          <association
+            Id="87b933be-5684-4b6a-9703-70e2b27657d6"
+            isDerived="false"
+            sourceEndRoleName="1 player"
+            targetEndRoleName="Login"
+            isLeaf="false"
+            name="3"
+            isAbstract="false">
+            <useCaseMoniker
+              Id="059fbfce-f9e5-49b6-8d5b-d564a39339c4"
+              LastKnownName="Login"
+              LastKnownLocation="ModelingProject1.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="b5543a84-b0ad-4cbf-b88d-db90cc4118ba"
+                  name="1 player"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="7628a881-185c-4021-a067-78072d6065a4"
+                  name="Login"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+          <association
+            Id="76a035db-0f81-4cb4-acd4-58397c195e6a"
+            isDerived="false"
+            sourceEndRoleName="1 player"
+            targetEndRoleName="Register"
+            isLeaf="false"
+            name="3"
+            isAbstract="false">
+            <useCaseMoniker
+              Id="da94ded9-9c27-4c6b-bae2-5e4a39bcf2ca"
+              LastKnownName="Register"
+              LastKnownLocation="ModelingProject1.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="b6a3f9f0-3f33-4274-a837-9a79d5278770"
+                  name="1 player"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="16387c41-af23-471f-97d0-c3aba8d56385"
+                  name="Register"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+        </targetEnds>
+      </useCase>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="73b3f9ee-e8a1-497d-9bd9-028e82b161db"
+        name="Quick Game"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="059fbfce-f9e5-49b6-8d5b-d564a39339c4"
+        name="Login"
+        isAbstract="false"
+        isLeaf="false">
+        <targetEnds>
+          <association
+            Id="a8a6f194-021b-4f23-96b7-e7af6d4358bc"
+            isDerived="false"
+            sourceEndRoleName="Login"
+            targetEndRoleName="Enter username and password"
+            isLeaf="false"
+            name="4,7"
+            isAbstract="false">
+            <useCaseMoniker
+              Id="341ba9e7-489a-4b35-8b2d-df1c1c5ee134"
+              LastKnownName="Enter username and password"
+              LastKnownLocation="ModelingProject1.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="6c43a6b9-e369-4446-a1d3-ede679dd4a06"
+                  name="Login"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="75762a87-311c-43de-b2f3-e63ad2aecaed"
+                  name="Enter username and password"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+        </targetEnds>
+      </useCase>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="da94ded9-9c27-4c6b-bae2-5e4a39bcf2ca"
+        name="Register"
+        isAbstract="false"
+        isLeaf="false">
+        <targetEnds>
+          <association
+            Id="6a03bb18-beff-40a4-a6d0-79b6c26c680a"
+            isDerived="false"
+            sourceEndRoleName="Register"
+            targetEndRoleName="Enter username and password"
+            isLeaf="false"
+            name="4"
+            isAbstract="false">
+            <useCaseMoniker
+              Id="b7a37ecb-498d-42ac-aa15-e2ebebd56db0"
+              LastKnownName="Enter username and password"
+              LastKnownLocation="ModelingProject1.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="b71df691-5bed-4f52-954c-113d746b7ab3"
+                  name="Register"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="789eec90-7d8c-4c67-90f6-a820eecf3786"
+                  name="Enter username and password"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+        </targetEnds>
+      </useCase>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="341ba9e7-489a-4b35-8b2d-df1c1c5ee134"
+        name="Enter username and password"
+        isAbstract="false"
+        isLeaf="false">
+        <targetEnds>
+          <association
+            Id="52e65511-b183-4411-8d8f-dc1b81b07e4a"
+            isDerived="false"
+            sourceEndRoleName="Enter username and password"
+            targetEndRoleName="Start Game"
+            isLeaf="false"
+            name="5,8"
+            isAbstract="false">
+            <useCaseMoniker
+              Id="52c2ce55-82ca-49f5-afc9-3eb39651615b"
+              LastKnownName="Start Game"
+              LastKnownLocation="ModelingProject1.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="f70ae375-0564-4f9d-9509-8d02f5ab8b41"
+                  name="Enter username and password"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="d87982ae-a879-4eeb-af6c-1dd997c2aa29"
+                  name="Start Game"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+        </targetEnds>
+      </useCase>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="52c2ce55-82ca-49f5-afc9-3eb39651615b"
+        name="Start Game"
+        isAbstract="false"
+        isLeaf="false" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="b7a37ecb-498d-42ac-aa15-e2ebebd56db0"
+        name="Enter username and password"
+        isAbstract="false"
+        isLeaf="false">
+        <targetEnds>
+          <association
+            Id="5e63dede-21c2-4cb6-8d7e-03988a53e615"
+            isDerived="false"
+            sourceEndRoleName="Enter username and password"
+            targetEndRoleName="Accept"
+            isLeaf="false"
+            name="5"
+            isAbstract="false">
+            <useCaseMoniker
+              Id="bf515579-2ac1-46cd-b928-25e630f8a247"
+              LastKnownName="Accept"
+              LastKnownLocation="ModelingProject1.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="95f3f6a4-368c-48b1-89b3-eb3a585bddf5"
+                  name="Enter username and password"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="3308829b-b20e-475c-afbd-cfda1b146acd"
+                  name="Accept"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+        </targetEnds>
+      </useCase>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="bf515579-2ac1-46cd-b928-25e630f8a247"
+        name="Accept"
+        isAbstract="false"
+        isLeaf="false">
+        <targetEnds>
+          <association
+            Id="70f4c034-6437-44a8-bc0f-d15fdf11fbb7"
+            isDerived="false"
+            sourceEndRoleName="Accept"
+            targetEndRoleName="Login"
+            isLeaf="false"
+            name="6"
+            isAbstract="false">
+            <useCaseMoniker
+              Id="059fbfce-f9e5-49b6-8d5b-d564a39339c4"
+              LastKnownName="Login"
+              LastKnownLocation="ModelingProject1.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="bd35050d-a074-4df2-b770-87e031935386"
+                  name="Accept"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="bb86bf4a-cc65-4fed-89f1-2eb5756f48fe"
+                  name="Login"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+        </targetEnds>
+      </useCase>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <useCase
+        Id="1f0b122c-6646-4813-863d-21d31e8e6eb4"
+        name="Settings"
+        isAbstract="false"
+        isLeaf="false">
+        <targetEnds>
+          <association
+            Id="2a7679b9-ac31-4263-86ef-221c023be755"
+            isDerived="false"
+            sourceEndRoleName="Settings"
+            targetEndRoleName="Options"
+            isLeaf="false"
+            isAbstract="false">
+            <subsystemMoniker
+              Id="0b47865e-a86a-4c31-98c2-d726418dc413"
+              LastKnownName="Options"
+              LastKnownLocation="ModelingProject1.uml" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="12401e52-e9d3-4c41-93c8-05d8c49331ee"
+                  name="Settings"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false"
+                  isNavigableOwned="false" />
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd
+                  Id="a24ea491-8c06-467a-9c3c-c6aafa8c0265"
+                  name="Options"
+                  isLeaf="false"
+                  isStatic="false"
+                  isReadOnly="false"
+                  isDerived="false"
+                  isDerivedUnion="false"
+                  aggregation="None"
+                  isComposite="false" />
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+          </association>
+        </targetEnds>
+      </useCase>
+    </packageHasNamedElement>
+  </packagedElements>
+  <primitiveType
+    Id="220a3521-e091-4221-bae9-3ef9018e845c"
+    name="Integer"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="8943dc84-709e-4f62-b15a-a3273aa6f165"
+    name="Boolean"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="59259974-6d55-42c6-b7bd-763d77ac8ef9"
+    name="String"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="3ab42e7d-4969-445a-b209-471f5cb8209c"
+    name="UnlimitedNatural"
+    isAbstract="false"
+    isLeaf="false" />
+</modelStoreModel>

@@ -1,0 +1,216 @@
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Spaceship\ship_1.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Background\lv1_1280.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Background\lv1_1024.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Asteroids\asteroide1.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Background\b.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Asteroids\asteroide2.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Background\earthSpace.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Asteroids\Asteroid1.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Asteroids\Asteroid2.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Asteroids\Asteroid3.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Asteroids\Asteroid4.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Asteroids\Asteroid5.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Asteroids\Asteroid6.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Asteroids\Asteroid7.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Asteroids\Asteroid8.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Asteroids\Asteroid9.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Asteroids\Asteroid10.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Life\life1.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Spaceship\fly1.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Spaceship\fly2.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Spaceship\fly3.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Spaceship\fly4.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Line\px.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Ufo\ufo-test.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\About_Button.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\Controls_Button.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\Highscore_Button.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\NewGame_Button.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\Settings_Button.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\Sounds_Button.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\Video_Button.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\About_Button.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\Controls_Button.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\Exit_Button.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\Highscore_Button.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\NewGame_Button.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\Settings_Button.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\Sounds_Button.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\Video_Button.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Logo\logo.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Logo\logoSmall.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\Player1.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\Accept_Button.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\Player1.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\Accept_Button.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\Player2.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\Player3.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\Player4.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\Player2.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\Player3.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\Player4.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\Exit_Button.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Menu\TextFields\TextField.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Menu\TextFields\TextField_valgt.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\Login_Button.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\QuickGame_Button.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\Register_Button.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\StartGame_Button.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\Login_Button.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\QuickGame_Button.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\Register_Button.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\StartGame_Button.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\EndGame_Button.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\EndGame_Button.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Spaceship\skjold.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Spaceship\skjold_hit.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Logo\logoTiny.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Life\life2.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Life\life3.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Life\life4.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Ufo\UFO.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\particleMetal.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Bullet\bullet1.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Bullet\bullet2.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Bullet\bullet3.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Bullet\bullet4.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Bullet\bullet5.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Background\bg3.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Background\bg2.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Sounds\skyd.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Sounds\shieldHit.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Sounds\explosion.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Sounds\loop.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Sounds\asteroids.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Sounds\loop.wma
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Sounds\asteroids.wma
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Asteroids.exe.config
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Asteroids.exe.manifest
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Asteroids.application
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Asteroids.exe
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Asteroids.pdb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\obj\x86\Release\Asteroids.exe.manifest
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\obj\x86\Release\Asteroids.application
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\obj\x86\Release\Asteroids.exe
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\obj\x86\Release\Asteroids.pdb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\obj\x86\Release\Decl\Asteroids.exe
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\obj\x86\Release\Decl\Asteroids.pdb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Background\moon1280.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Background\earth1280.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Background\venus1280.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\particleMetal_grande.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Fonts\Georgia_26.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Fonts\Georgia_100.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Fonts\Georgia_14.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Fonts\Georgia_12.xnb
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\Asteroids\bin\x86\Release\Content\Sounds\spawn.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Spaceship\ship_1.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Background\lv1_1280.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Background\lv1_1024.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Asteroids\asteroide1.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Background\b.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Asteroids\asteroide2.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Background\earthSpace.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Asteroids\Asteroid1.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Asteroids\Asteroid2.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Asteroids\Asteroid3.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Asteroids\Asteroid4.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Asteroids\Asteroid5.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Asteroids\Asteroid6.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Asteroids\Asteroid7.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Asteroids\Asteroid8.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Asteroids\Asteroid9.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Asteroids\Asteroid10.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Life\life1.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Spaceship\fly1.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Spaceship\fly2.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Spaceship\fly3.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Spaceship\fly4.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Line\px.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Ufo\ufo-test.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\About_Button.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\Controls_Button.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\Highscore_Button.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\NewGame_Button.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\Settings_Button.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\Sounds_Button.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\Video_Button.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\About_Button.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\Controls_Button.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\Exit_Button.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\Highscore_Button.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\NewGame_Button.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\Settings_Button.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\Sounds_Button.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\Video_Button.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Logo\logo.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Logo\logoSmall.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\Player1.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\Accept_Button.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\Player1.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\Accept_Button.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\Player2.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\Player3.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\Player4.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\Player2.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\Player3.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\Player4.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\Exit_Button.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\TextFields\TextField.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\TextFields\TextField_valgt.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\Login_Button.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\QuickGame_Button.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\Register_Button.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\Login_Button.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\QuickGame_Button.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\Register_Button.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\EndGame_Button.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\EndGame_Button.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Spaceship\skjold.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Spaceship\skjold_hit.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Logo\logoTiny.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Life\life2.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Life\life3.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Life\life4.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Ufo\UFO.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\particleMetal.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Bullet\bullet1.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Bullet\bullet2.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Bullet\bullet3.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Bullet\bullet4.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Bullet\bullet5.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Background\bg3.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Background\bg2.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Background\moon1280.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Background\earth1280.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Background\venus1280.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\particleMetal_grande.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Valgt\StartGame_Button.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Menu\Ikke_valgt\StartGame_Button.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Fonts\Georgia_26.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Fonts\Georgia_100.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Fonts\Georgia_14.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Fonts\Georgia_12.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Sounds\skyd.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Sounds\shieldHit.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Sounds\explosion.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Sounds\spawn.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Sounds\loop.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Sounds\asteroids.xnb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Sounds\loop.wma
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Content\Sounds\asteroids.wma
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Asteroids.exe.config
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Asteroids.exe.manifest
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Asteroids.application
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Asteroids.exe
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\bin\x86\Release\Asteroids.pdb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\obj\x86\Release\Asteroids.exe.manifest
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\obj\x86\Release\Asteroids.application
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\obj\x86\Release\Asteroids.exe
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\obj\x86\Release\Asteroids.pdb
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\obj\x86\Release\Decl\Asteroids.exe
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\Asteroids\obj\x86\Release\Decl\Asteroids.pdb

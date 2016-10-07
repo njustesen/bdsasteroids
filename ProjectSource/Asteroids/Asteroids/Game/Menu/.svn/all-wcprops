@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/bdsasteroids/!svn/ver/455/Asteroids/Asteroids/Asteroids/Game/Menu
+END
+Button.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/bdsasteroids/!svn/ver/454/Asteroids/Asteroids/Asteroids/Game/Menu/Button.cs
+END
+NavigationButton.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/bdsasteroids/!svn/ver/454/Asteroids/Asteroids/Asteroids/Game/Menu/NavigationButton.cs
+END
+ReEnterPasswordMenuItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/bdsasteroids/!svn/ver/454/Asteroids/Asteroids/Asteroids/Game/Menu/ReEnterPasswordMenuItem.cs
+END
+EnterUsernameMenuItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/bdsasteroids/!svn/ver/454/Asteroids/Asteroids/Asteroids/Game/Menu/EnterUsernameMenuItem.cs
+END
+Selectable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bdsasteroids/!svn/ver/454/Asteroids/Asteroids/Asteroids/Game/Menu/Selectable.cs
+END
+UsernameMenuItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/bdsasteroids/!svn/ver/454/Asteroids/Asteroids/Asteroids/Game/Menu/UsernameMenuItem.cs
+END
+EnterPasswordMenuItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/bdsasteroids/!svn/ver/454/Asteroids/Asteroids/Asteroids/Game/Menu/EnterPasswordMenuItem.cs
+END
+Menu.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/bdsasteroids/!svn/ver/455/Asteroids/Asteroids/Asteroids/Game/Menu/Menu.cs
+END
+MenuScreen.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bdsasteroids/!svn/ver/455/Asteroids/Asteroids/Asteroids/Game/Menu/MenuScreen.cs
+END
+HighScoreListItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/bdsasteroids/!svn/ver/454/Asteroids/Asteroids/Asteroids/Game/Menu/HighScoreListItem.cs
+END
+PasswordMenuItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/bdsasteroids/!svn/ver/454/Asteroids/Asteroids/Asteroids/Game/Menu/PasswordMenuItem.cs
+END
+ControlsMenuItem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/bdsasteroids/!svn/ver/455/Asteroids/Asteroids/Asteroids/Game/Menu/ControlsMenuItem.cs
+END
+About.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/bdsasteroids/!svn/ver/455/Asteroids/Asteroids/Asteroids/Game/Menu/About.cs
+END

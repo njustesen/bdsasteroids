@@ -1,0 +1,2 @@
+C:\Users\niels\Documents\Visual Studio 2010\Projects\AsteroidsMandag3\Asteroids\AsteroidsContent\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\niels\Documents\My Dropbox\Chpis'n'Dips BDSA Project\CD\ProjectSource\Asteroids\AsteroidsContent\obj\x86\Release\ResolveAssemblyReference.cache
